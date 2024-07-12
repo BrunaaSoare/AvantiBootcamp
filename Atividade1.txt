@@ -1,0 +1,14 @@
+1 - Explique, com suas palavras, o que é machine learning?    
+Machine learning é um ramo da área de TI que utiliza dados e algoritmos para fazer uma IA chegar mais próxima do que faz a mente humana.
+
+2 - Explique o conceito de conjunto de treinamento, conjunto de validação e conjunto de teste em machine learning.
+Conjunto de treinamento o algoritmo ajusta os padrões do modelo com base em dados, é usado para treinar a IA. Conjunto de validação para selecionar o melhor modelo, avalia o desempenho do modelo enquanto esta em desenvolvimento. Conjunto de teste é usado para avaliar o desempenho final após os conjuntos anteriores, ele fornece estimativas de quão bem o modelo vai se sair.
+
+3 - Explique como você lidaria com dados ausentes em um conjunto de dados de treinamento.
+A alternativa mais certeira para mim é remover esses dados ausentes na etapa de limpeza dos dados.
+
+4 - O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo?
+É uma tabela que permite vermos o desempenho de um modelo, ela compara as previsões que o modelo fez com os valores reais dos dados apresentados.
+
+5 - Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
+Na área ambiental principalmente, para fazer previsões de possíveis catástrofes climáticas por exemplo e na área de segurança podendo utilizar reconhecimento facial.
